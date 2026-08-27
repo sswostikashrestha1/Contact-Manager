@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+node_modules/  
+dist/  
+=======
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Production builds
+client/dist/
+dist/
+
+# Environments / Secrets
+.env
+server/.env
+client/.env
+
+# Local logs
+*.log
+>>>>>>> 51456381bb22bafa8be7ae03f8fb150a36bfb454
